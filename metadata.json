@@ -1,0 +1,5 @@
+{
+  "name": "Topper Thali",
+  "description": "Mess Management System for student subscriptions, attendance, and payments.",
+  "requestFramePermissions": ["camera"]
+}
